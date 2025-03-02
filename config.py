@@ -1,0 +1,1 @@
+DOCUMENTS_DIR = "@docs"
